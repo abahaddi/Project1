@@ -201,7 +201,7 @@
           <div class="section ring">
             <h2>About</h2>
             <p class="about">
-              Hi! I’m <b>AMINE</b>, a <b>DevOps Cloud Engineer</b> focused on
+              Hi! I’m <b>AMIRA</b>, a <b>DevOps Cloud Engineer</b> focused on
               <b>automation</b>, <b>CI/CD</b>, and <b>cloud reliability</b>. I enjoy turning
               complex deployments into simple, repeatable workflows.
             </p>
