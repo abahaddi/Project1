@@ -185,7 +185,7 @@
           <div class="id">
             <div class="avatar" aria-hidden="true"></div>
             <div>
-              <h1>AMINE</h1>
+              <h1>ASSIA</h1>
               <p class="role">DevOps & Cloud Engineer • Building reliable, automated infrastructure</p>
             </div>
           </div>
