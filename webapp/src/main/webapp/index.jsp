@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>AMIRA — DevOps Cloud Engineer</title>
+  <title>AMIRA — DevOps and Cloud Engineer</title>
   <meta name="description" content="Portfolio card for YOUR NAME, DevOps & Cloud Engineer." />
   <style>
     :root{
